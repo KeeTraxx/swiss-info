@@ -1,0 +1,71 @@
+<html>
+<head>
+    <title>Swiss-Info</title>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.3.0/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.35.1/es6-shim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.20/topojson.min.js"></script>
+    <style type="text/css">
+        body {
+            background-color: #222;
+            margin: 0;
+            padding: 0;
+        }
+        svg {
+            position: fixed;
+            width: 75%;
+        }
+
+        path {
+            fill: blue;
+            stroke: red;
+        }
+
+        text {
+            text-anchor: middle;
+            font-family: sans-serif;
+        }
+
+        #controls {
+            position: fixed;
+            left: 75%;
+            width: 25%;
+            height: 100%;
+            background-color: #ccc;
+            font-family: Roboto, sans-serif;
+        }
+        #controls > div {
+            padding: 20px;
+        }
+
+        #controls dt {
+            font-family: "Roboto Black", sans-serif;
+        }
+
+        #controls dd {
+            margin-bottom: 0.5em;
+        }
+
+    </style>
+</head>
+<body>
+    <svg viewBox="0 0 960 500" preserveAspectRatio="xMidYMid meet">
+        <g id="interaction">
+            <g id="cantons"></g>
+            <g id="labels"></g>
+        </g>
+    </svg>
+    <div id="controls">
+        <div>
+            <select id="metric">
+
+            </select>
+            <dl id="data">
+
+            </dl>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

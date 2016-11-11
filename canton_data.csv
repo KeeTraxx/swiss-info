@@ -1,0 +1,27 @@
+Abk.,Kanton,Kantonsnummer,Anzahl Standesstimmen,Beitritt (Jahr),Hauptort,Anzahl Einwohner,Ausländerquote (%),Arbeitslosenquote (%),Fläche (km²),Einwohnerdichte (E/km²),Anzahl Gemeinden,Amtssprache
+ZH,Zürich,1,1,1351,Zürich,1463459,26.1,3.9,1729,846,168,Deutsch
+BE,Bern,2,1,1353,Bern,1017483,15.4,2.9,5959,171,352,"Deutsch, Französisch"
+LU,Luzern,3,1,1332,Luzern,398699,17.8,2.3,1493,267,83,Deutsch
+UR,Uri,4,1,1291,Altdorf,35971,11.6,1.2,1077,33,20,Deutsch
+SZ,Schwyz,5,1,1291,Schwyz,153057,20.1,1.9,908,169,30,Deutsch
+OW,Obwalden,6,0.5,1291,Sarnen,37190,14.3,1.1,491,76,7,Deutsch
+NW,Nidwalden,7,0.5,1291,Stans,42274,13.9,1.4,276,153,11,Deutsch
+GL,Glarus,8,1,1352,Glarus,40028,23.1,2.6,685,58,3,Deutsch
+ZG,Zug,9,1,1352,Zug,122113,27,2.6,239,511,11,Deutsch
+FR,Freiburg,10,1,1481,Freiburg,307461,21.8,3.5,1671,184,150,"Französisch, Deutsch"
+SO,Solothurn,11,1,1481,Solothurn,266418,21.4,3.2,791,337,109,Deutsch
+BS,Basel-Stadt,12,0.5,1501,Basel,197204,35.2,4,37,5330,3,Deutsch
+BL,Basel-Landschaft,13,0.5,1501,Liestal,283231,21.7,3.1,518,547,86,Deutsch
+SH,Schaffhausen,14,1,1501,Schaffhausen,79836,25.4,3.6,298,268,26,Deutsch
+AR,Appenzell Ausserrhoden,15,0.5,1513,"Herisau, Trogen5",54543,15.7,2,243,224,20,Deutsch
+AI,Appenzell Innerrhoden,16,0.5,1513,Appenzell,15974,10.8,1,173,92,6,Deutsch
+SG,St. Gallen,17,1,1803,St. Gallen,499065,23.5,2.7,2026,246,77,Deutsch
+GR,Graubünden,18,1,1803,Chur,196610,18.2,2.1,7105,28,114,"Deutsch, Rätoromanisch, Italienisch"
+AG,Aargau,19,1,1803,Aarau,653317,24.2,3.4,1404,465,213,Deutsch
+TG,Thurgau,20,1,1803,Frauenfeld,267429,24.2,2.9,991,270,80,Deutsch
+TI,Tessin,21,1,1803,Bellinzona,351946,27.8,4.2,2812,125,130,Italienisch
+VD,Waadt,22,1,1803,Lausanne,773407,33.4,5.2,3212,241,316,Französisch
+VS,Wallis,23,1,1815,Sitten,335696,23.1,5.8,5224,64,134,"Französisch, Deutsch"
+NE,Neuenburg,24,1,1815,Neuenburg,178107,25.5,6.1,803,222,36,Französisch
+GE,Genf,25,1,1815,Genf,490578,41.1,5.7,282,1740,45,Französisch
+JU,Jura,26,1,1979,Delsberg,72782,14.3,4.6,838,87,57,Französisch
